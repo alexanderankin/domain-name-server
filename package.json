@@ -1,0 +1,21 @@
+{
+  "name": "domain-name-server",
+  "version": "0.0.1",
+  "description": "DNS server with tests and features",
+  "main": "index.js",
+  "license": "GPL-3.0-or-later",
+  "bin": {
+    "dns": "bin/dn-server",
+    "dn-server": "bin/dn-server"
+  },
+  "author": {
+    "name": "David Ankin",
+    "email": "daveankin@gmail.com",
+    "url": "ankin.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderankin/domain-name-server.git"
+  },
+  "bugs": "https://github.com/alexanderankin/domain-name-server/issues"
+}
